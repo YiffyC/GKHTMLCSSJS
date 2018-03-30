@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html
+{
+	background-color: #323233;
+	color: darkgrey;
+	font-size: 22px;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+#google
+{
+	color: aliceblue;
+}
+
+#google:hover
+{
+	color: darkviolet;
+}
+
+
+#ladybug
+{
+	text-align: center;
+}
+
+dt
+{
+	color: aqua;
+}
+
+
+.imgLien
+{
+	text-decoration: none;
+}
+
+#titre
+{
+	text-shadow: 0px 0px 10px #DE89E4;
+	color: #D4D4D4;
+	text-align: center;
+	border-bottom: #EF1014
+}
+
+
